@@ -1,8 +1,8 @@
-data = '{
+data = {
   "postcodes": [
     {
       "postcode": "BA1 7PY",
-      "LSOA": "ah heheee"
+      "LSOA": "test"
     }
   ]
-}'
+}

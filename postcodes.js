@@ -1,1 +1,1 @@
-data = "test value"
+let postcodeData = "test value"
